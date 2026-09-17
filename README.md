@@ -1,1 +1,1 @@
-#Meus projetos em Python
+# Meu curso Python
